@@ -1,4 +1,4 @@
-# Prodigy_05
+# Prodigy_ML_05
 
 # FOOD RECOGNITION MODEL
 
